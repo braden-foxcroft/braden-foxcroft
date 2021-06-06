@@ -1,5 +1,5 @@
 Hi, I’m @braden-foxcroft
-I'm a second-year university student, majoring in computer science
+I'm a second-year university student, majoring in computer science.
 I'm interested in how new tools and languages can be used to enable people to better realize their visions!
 
 <!---
