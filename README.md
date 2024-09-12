@@ -1,6 +1,6 @@
 Hi, I’m Braden Foxcroft.
 
-I'm a fourth-year university student, majoring in Computer Science at the University of Calgary.
+I'm a recent university graduate. (BSc Computer Science, University of Calgary.)
 
 I'm interested in how new tools and programming languages can be used to enable people to better realize their visions.
 
