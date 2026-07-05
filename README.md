@@ -1,8 +1,8 @@
 Hi, I’m Braden Foxcroft.
 
-I'm a recent university graduate. (BSc Computer Science, University of Calgary.)
+I'm interested in programming languages and tools, among many other things. I avoid using AI-generated code in my projects.
 
-I'm interested in how new tools and programming languages can be used to enable people to better realize their visions.
+I have a BSc in Computer Science from the University of Calgary.
 
 <!---
 braden-foxcroft/braden-foxcroft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
